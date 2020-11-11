@@ -8,6 +8,7 @@ import utility.BasePage;
 
 public class Home extends BasePage {
 	
+	//Switched to Branch
 	
 	@Then("^user scroll down '\"([^\"]*)\"'$")
 	public void user_scroll_down(String arg1) throws Throwable {
