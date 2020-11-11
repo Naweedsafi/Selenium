@@ -8,7 +8,6 @@ import utility.BasePage;
 
 public class Home extends BasePage {
 	
-	// this is the home page of Whizport
 	
 	@Then("^user scroll down '\"([^\"]*)\"'$")
 	public void user_scroll_down(String arg1) throws Throwable {
